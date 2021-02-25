@@ -6,6 +6,10 @@
     background-color: lightblue;
     padding: 0.5em;
     text-align: center;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
 }
 #my-id {
     color: #51C561;
@@ -24,4 +28,13 @@
 }
 body {
     background-image: url(../images/beanmeme.jpg);               
+}
+.my-image {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+my-link {
+    text-align: right;
 }
