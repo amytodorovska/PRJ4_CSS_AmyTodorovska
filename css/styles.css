@@ -1,5 +1,19 @@
 @charset "UTF-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+}
+.navbar-expand-lg {
+	background: green;
+}
+
+.nav { background: blue;
+}
+.nav-link {
+	color:chartreuse;
+}
+.nav-link:hover {
+	color: white;
+}
 .my-container {
     color: red;
     border: 1px solid blue;
@@ -39,3 +53,6 @@ body {
 my-link {
     text-align: right;
 }
+
+footer { color: aliceblue;
+background-color: greenyellow}
